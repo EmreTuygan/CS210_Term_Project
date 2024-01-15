@@ -10,7 +10,7 @@ A project that conducts data analysis to find out correlation between caffeine c
 To get started, clone the project and navigate to the project directory. Install the required dependencies:
 
 ```shell
-git clone https://github.com/emretuygan/CS210_Term_Project.git
+git clone https://github.com/EmreTuygan/CS210_Term_Project.git
 cd CS210_Term_Project/
 pip install -r requirements.txt
 ```
