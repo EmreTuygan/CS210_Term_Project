@@ -2,8 +2,9 @@
 
 A project that conducts data analysis to find out correlation between caffeine consumption and sleep aiming to model the relation to build a ML model to forecast wheter your caffein consumption is going to affect your sleep or not.
 
-> For project presentation go: 
-> The detailed results and steps are given in the .ipynb
+## For project presentation go: 
+* [Link to Report PDF](./CaffeineStudyPresentation.pdf)
+* The detailed results and steps are given are also explianed in the .ipynb file.
 
 ## Installing / Getting started
 
@@ -18,7 +19,7 @@ pip install -r requirements.txt
 ## Developing
 
 ## Built With
-- Python (>=3.6)
+- Python (>=3.10)
 - Jupyter Notebook
   
 #### To reproduce the analysis:
